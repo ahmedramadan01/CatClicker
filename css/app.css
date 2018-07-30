@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  /*text-align: center;*/
+  background-color: #ff8;
+  font-family: sans-serif;
+}
+input[type=text]{
+  margin-left: 20px;
+  margin-top: 5px;
+}
+#posUrl {
+  margin-left: 72px;
+}
+#posClicks {
+  margin-left: 49px;
+}
+.button {
+  margin-top:10px;
+}
+#oCatList {
+  width:20%;
+}
+#cat2, #cat {
+  height:426px;
+  width:550px;
+  display: inline-block;
+}
+.inline {
+  display: inline-block;
+}
+
+#catList {
+  width:50%;
+  display: inline-block;
+}
+.catArea {
+  position: absolute;
+  display: inline-block;
+  width:500px;
+  height:500px;
+}
+img[src='img/cat6.jpg'] {
+  height:400px;
+}
